@@ -1,5 +1,5 @@
 # To separate entries in logfiles
-print("################## Start Log Entry ######################")
+print("################### Start Log Entry #######################")
 
 library(rgdax)
 library(mailR)
