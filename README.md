@@ -1,4 +1,4 @@
-# GDAX_Trader
+## GDAX_Trader
 **Note that the GDAX api used in this repo is no longer functioning.**
 
 [Full article detailing this project on *Towards Data Science*](https://towardsdatascience.com/build-a-cryptocurrency-trading-bot-with-r-1445c429e1b1)
